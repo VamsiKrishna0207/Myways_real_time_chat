@@ -1,1 +1,2 @@
-# INT - 222 Final Project
+Myways real time chat room
+
